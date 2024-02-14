@@ -1,0 +1,19 @@
+// 1.lat - coords.lat
+// 2.long - coords.lon
+// 3.weather description - weather.description
+// 4.weather icon -weather.icon
+// 5.temperature - main.temp
+// 5.humidity - main.humidity
+// 6.windspeed - wind.speed
+
+/**
+ 1.current location weather details 
+ 2.search weather by city name
+
+ components:
+ one main center element to show weather
+ one input to enter the city info
+ button to search 
+ button to access current location and get the weather 
+ 
+ */
